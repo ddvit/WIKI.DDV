@@ -62,33 +62,33 @@
 </head>
 <body>
     <div class="grid-container">
-        <a href="https://example.com/vfxanh" class="card">
+        <a href="https://www.google.com/" class="card">
             <img src="/api/placeholder/180/120" alt="VFXANH" class="card-image">
             <div class="card-content">
                 <h2 class="card-title">VFXANH</h2>
                 <p class="card-description">VINFAST</p>
             </div>
         </a>
-        <a href="https://example.com/neg-vn" class="card">
+        <a href="https://www.google.com/" class="card">
             <img src="/api/placeholder/180/120" alt="NEG.VN" class="card-image">
             <div class="card-content">
                 <h2 class="card-title">NEG.VN</h2>
             </div>
         </a>
-        <a href="https://example.com/tong-hop-ghi-chu-it" class="card">
+        <a href="https://www.google.com/" class="card">
             <img src="/api/placeholder/180/120" alt="TỔNG HỢP GHI CHÚ IT" class="card-image">
             <div class="card-content">
                 <h2 class="card-title">TỔNG HỢP GHI CHÚ IT</h2>
                 <p class="card-description">Build Wikis for members in the organization</p>
             </div>
         </a>
-        <a href="https://example.com/didongviet" class="card">
+        <a href="https://www.google.com/" class="card">
             <img src="/api/placeholder/180/120" alt="DIDONGVIET" class="card-image">
             <div class="card-content">
                 <h2 class="card-title">DIDONGVIET</h2>
             </div>
         </a>
-        <a href="https://example.com/ctkm-test" class="card">
+        <a href="https://www.google.com/" class="card">
             <img src="/api/placeholder/180/120" alt="CTKM test" class="card-image">
             <div class="card-content">
                 <h2 class="card-title">CTKM test</h2>
@@ -96,7 +96,7 @@
                 <span class="tag">Quyền truy cập dễ</span>
             </div>
         </a>
-        <a href="https://example.com/giao-dien-misa-eshop" class="card">
+        <a href=https://www.google.com/" class="card">
             <img src="/api/placeholder/180/120" alt="Giao diện Misa eshop" class="card-image">
             <div class="card-content">
                 <h2 class="card-title">Giao diện Misa eshop</h2>
